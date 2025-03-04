@@ -2,7 +2,7 @@ export const refrigerantes = [
   {
     name: "Guaravita 290ml",
     description: "Guaravita Tradicional 290ml - 24 Unidades - R$ 1,29",
-    price: 30.99,
+    price: 33.99,
     image: "https://i.ibb.co/b61YzHL/1.png",
   },
   {
